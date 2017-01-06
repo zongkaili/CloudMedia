@@ -1,0 +1,526 @@
+[
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_custom.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\fragment_custom.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_layout.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\header_layout.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transition.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\activity_transition.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_header_base.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\activity_header_base.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_slide.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\activity_slide.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_slide_shape.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\header_slide_shape.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_movie_header.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\activity_movie_header.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_douban_top.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\activity_douban_top.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\base_header_title_bar.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\base_header_title_bar.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_very_image.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\viewpager_very_image.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_android.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\fragment_android.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slider_layout.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.daimajia.slider\\library\\1.1.5\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_everyday_title.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\item_everyday_title.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_item_gank_custom.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\header_item_gank_custom.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_default.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.daimajia.slider\\library\\1.1.5\\res\\layout\\render_type_default.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nav_deed_back.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\activity_nav_deed_back.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_gank.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\fragment_gank.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_view.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_base.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\fragment_base.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bs_list_entry.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.cocosw\\bottomsheet\\1.3.0\\res\\layout\\bs_list_entry.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_everyday_one.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\item_everyday_one.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_item_book.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\header_item_book.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_item_everyday.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\footer_item_everyday.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_douban_top.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\item_douban_top.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_book_detail.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\activity_book_detail.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_item_one.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\header_item_one.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_scrolling.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\content_scrolling.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_one.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\fragment_one.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_empty.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\item_empty.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_item_everyday.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\header_item_everyday.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_big_image.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\activity_view_big_image.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kaws_refresh_header.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\CloudMedia\\xrecyclerview\\unspecified\\res\\layout\\kaws_refresh_header.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_slide_shade_view.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\activity_slide_shade_view.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nav_download.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\activity_nav_download.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_everyday_three.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\item_everyday_three.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_loading_progress.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\video_loading_progress.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indicator_layout.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.daimajia.slider\\library\\1.1.5\\res\\layout\\indicator_layout.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_middle_layout.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\home_middle_layout.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_text.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.daimajia.slider\\library\\1.1.5\\res\\layout\\render_type_text.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_sheet_dialog.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.cocosw\\bottomsheet\\1.3.0\\res\\layout\\bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_movie_detail.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\activity_movie_detail.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_movie_detail.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\item_movie_detail.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_one_movie_detail.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\activity_one_movie_detail.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_everyday_two.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\item_everyday_two.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_welfare.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\item_welfare.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bs_header.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.cocosw\\bottomsheet\\1.3.0\\res\\layout\\bs_header.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_book_custom.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\fragment_book_custom.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_slide_scrool_view.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\activity_slide_scrool_view.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_book.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\fragment_book.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_book.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\item_book.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_welfare.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\fragment_welfare.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_one.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\item_one.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\banner.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.youth.banner\\banner\\1.4.2\\res\\layout\\banner.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_everyday.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\fragment_everyday.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_book_detail.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\header_book_detail.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bs_grid_entry.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.cocosw\\bottomsheet\\1.3.0\\res\\layout\\bs_grid_entry.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_item_book.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\footer_item_book.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_view_bg.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\sliding_view_bg.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nav_home_page.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\activity_nav_home_page.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_movie_detail_person.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\item_movie_detail_person.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_douban_top.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\title_douban_top.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bs_list_divider.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.cocosw\\bottomsheet\\1.3.0\\res\\layout\\bs_list_divider.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nav_about.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\activity_nav_about.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_android.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\item_android.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_base.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\layout\\content_base.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\yun_refresh_footer.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\exploded-aar\\CloudMedia\\xrecyclerview\\unspecified\\res\\layout\\yun_refresh_footer.xml"
+    }
+]

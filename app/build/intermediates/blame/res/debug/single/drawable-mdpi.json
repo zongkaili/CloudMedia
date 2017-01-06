@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_cloudreader.png",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\drawable-mdpi\\ic_cloudreader.png"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\banner_grey.png",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\drawable-mdpi\\banner_grey.png"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\banner_red.png",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\drawable-mdpi\\banner_red.png"
+    }
+]

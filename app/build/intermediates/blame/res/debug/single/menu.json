@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\menu\\base_header_menu.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\menu\\base_header_menu.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gank_bottomsheet.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\menu\\gank_bottomsheet.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\menu\\slide.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\menu\\slide.xml"
+    },
+    {
+        "merged": "E:\\studioProjects\\CloudMedia\\app\\build\\intermediates\\res\\merged\\debug\\menu\\movie_detail.xml",
+        "source": "E:\\studioProjects\\CloudMedia\\app\\src\\main\\res\\menu\\movie_detail.xml"
+    }
+]
